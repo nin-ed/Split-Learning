@@ -1,1 +1,0 @@
-# Vertically-Partitioned-Split-Learning
